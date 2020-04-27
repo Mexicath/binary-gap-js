@@ -1,7 +1,7 @@
 # BINARY GAP FOR JAVASCRIPT
 _Code and logic explanation of binary gap solution with dynamic max value allowed_
 ### Binary gap
-Find the longest secuence of zeros in a binary number based on an Integer. For example: the binary of *45* is *00101101* the gap is _1_.
+Find the longest sequence of zeros in a binary number based on an Integer. For example: the binary of *45* is *00101101* the gap is _1_.
 
 ### Our conditions
 1. Has to be an integer.
